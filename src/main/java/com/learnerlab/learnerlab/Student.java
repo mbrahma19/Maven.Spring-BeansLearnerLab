@@ -1,5 +1,8 @@
 package com.learnerlab.learnerlab;
 
+import javax.persistence.Entity;
+
+@Entity
 public class Student extends Person implements Learner{
 
     private Double totalStudyTime;

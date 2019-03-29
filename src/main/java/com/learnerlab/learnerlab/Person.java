@@ -1,6 +1,11 @@
 package com.learnerlab.learnerlab;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Person {
+    @Id
     private final Long id;
     private String name;
 
