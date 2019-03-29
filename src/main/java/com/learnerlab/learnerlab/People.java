@@ -3,7 +3,7 @@ package com.learnerlab.learnerlab;
 import java.util.Iterator;
 import java.util.List;
 
-public class People<PersonType extends Person> implements Iterable<PersonType>{
+public abstract class People<PersonType extends Person> implements Iterable<PersonType>{
 
     private List<PersonType> list;
 

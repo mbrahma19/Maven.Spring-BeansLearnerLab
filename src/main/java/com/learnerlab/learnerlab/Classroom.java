@@ -14,4 +14,11 @@ public class Classroom {
         teacher.lecture(students,numberOfHours);
     }
 
+    public Instructors getInstructors() {
+        return instructors;
+    }
+
+    public Students getStudents() {
+        return students;
+    }
 }
