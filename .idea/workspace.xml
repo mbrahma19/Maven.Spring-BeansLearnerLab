@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72774f6c-9340-4e46-94b8-7c011a226a63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/ClassroomConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/InstructorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/StudentConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learnerlab/learnerlab/StudentConfigTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Classroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Classroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnerlab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learnerlab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnerlab/learnerlab/Classroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnerlab/learnerlab/Classroom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnerlab/learnerlab/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnerlab/learnerlab/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnerlab/learnerlab/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnerlab/learnerlab/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learnerlab/learnerlab/StudentConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learnerlab/learnerlab/StudentConfig.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +25,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/StudentConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="35" />
+            <state relative-caret-position="171">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/learnerlab/learnerlab/LearnerlabApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/learnerlab/learnerlab/StudentConfigTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Learner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -47,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/InstructorsConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+            <state relative-caret-position="515">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,72 +108,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/ClassroomConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="440">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Students.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/People.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-                <element signature="e#940#941#0" expanded="true" />
-                <element signature="e#990#991#0" expanded="true" />
-                <element signature="e#1050#1051#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -129,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="43" column="17" selection-start-line="42" selection-start-column="11" selection-end-line="43" selection-end-column="17" />
+            <state relative-caret-position="122">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -155,16 +149,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Teacher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Instructions.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Instructor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Instructors.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Students.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/People.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Classroom.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/InstructorsConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/StudentConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/ClassroomConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Student.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/learnerlab/learnerlab/StudentConfigTest.java" />
       </list>
     </option>
   </component>
@@ -176,8 +172,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-241" />
-    <option name="y" value="-1057" />
+    <option name="x" value="-213" />
+    <option name="y" value="-955" />
     <option name="width" value="1920" />
     <option name="height" value="977" />
   </component>
@@ -230,6 +226,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learnerlab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven.Spring-BeansLearnerLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnerlab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven.Spring-BeansLearnerLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnerlab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maven.Spring-BeansLearnerLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learnerlab" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -238,9 +255,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553894175394" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553905177430" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -260,7 +281,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.StudentConfigTest">
+    <configuration name="StudentConfigTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learnerlab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnerlab.learnerlab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnerlab.learnerlab" />
+      <option name="MAIN_CLASS_NAME" value="com.learnerlab.learnerlab.StudentConfigTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentConfigTest.currentStudentsContainsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learnerlab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnerlab.learnerlab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnerlab.learnerlab" />
+      <option name="MAIN_CLASS_NAME" value="com.learnerlab.learnerlab.StudentConfigTest" />
+      <option name="METHOD_NAME" value="currentStudentsContainsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentConfigTest.currentStudentsSizeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learnerlab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnerlab.learnerlab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnerlab.learnerlab" />
+      <option name="MAIN_CLASS_NAME" value="com.learnerlab.learnerlab.StudentConfigTest" />
+      <option name="METHOD_NAME" value="currentStudentsSizeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LearnerlabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="learnerlab" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.learnerlab.learnerlab.LearnerlabApplication" />
@@ -268,6 +336,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentConfigTest" />
+        <item itemvalue="JUnit.StudentConfigTest.currentStudentsContainsTest" />
+        <item itemvalue="JUnit.StudentConfigTest.currentStudentsSizeTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -281,15 +356,35 @@
       <updated>1553726534918</updated>
       <workItem from="1553726536300" duration="664000" />
       <workItem from="1553800935555" duration="5041000" />
-      <workItem from="1553882287248" duration="10081000" />
+      <workItem from="1553882287248" duration="15221000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="StudentConfigTest_currentStudentsSizeTest - 2019.03.29 at 18h 20m 40s.xml">
+      <configuration name="StudentConfigTest.currentStudentsSizeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentConfigTest_currentStudentsSizeTest - 2019.03.29 at 18h 34m 02s.xml">
+      <configuration name="StudentConfigTest.currentStudentsSizeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentConfigTest_currentStudentsSizeTest - 2019.03.29 at 18h 35m 21s.xml">
+      <configuration name="StudentConfigTest.currentStudentsSizeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentConfigTest_currentStudentsSizeTest - 2019.03.29 at 18h 37m 33s.xml">
+      <configuration name="StudentConfigTest.currentStudentsSizeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentConfigTest_currentStudentsSizeTest - 2019.03.29 at 19h 48m 24s.xml">
+      <configuration name="StudentConfigTest.currentStudentsSizeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentConfigTest - 2019.03.29 at 20h 02m 22s.xml">
+      <configuration name="StudentConfigTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15786000" />
+    <option name="totallyTimeSpent" value="20926000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-241" y="-1057" width="1920" height="977" extended-state="0" />
+    <frame x="-213" y="-955" width="1920" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19755058" />
@@ -302,7 +397,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299435" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2621469" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -311,7 +406,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299435" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.4141844" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -331,16 +426,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learnerlab.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Learner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -370,13 +455,6 @@
             <element signature="e#162#163#0" expanded="true" />
             <element signature="e#189#190#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -413,10 +491,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/learnerlab.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="43" column="17" selection-start-line="42" selection-start-column="11" selection-end-line="43" selection-end-column="17" />
+        <state relative-caret-position="189">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/InstructorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/ClassroomConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learnerlab/learnerlab/LearnerlabApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/LearnerlabApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Learner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -432,40 +561,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/StudentConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="35" />
+        <state relative-caret-position="171">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/InstructorsConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnerlab/learnerlab/ClassroomConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learnerlab/learnerlab/StudentConfigTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="232">
+          <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -524,12 +654,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>learnerlab</last-edited>
+          <last-edited>Web|learnerlab</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
