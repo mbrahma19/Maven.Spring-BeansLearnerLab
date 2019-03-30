@@ -1,6 +1,5 @@
 package com.learnerlab.learnerlab;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
@@ -32,7 +31,8 @@ public class InstructorsConfig {
     @Primary
     @Bean(name = "instructors")
     public Instructors instructors(){
-        List<Instructor> newList = tcUsaInstructors().findAll();
+        List<Instructor> newList = new ArrayList<>();
+        newList.addAll(tcUsaInstructors().findAll());
         newList.addAll(tcUKInstructors().findAll());
         return new Instructors(newList);
 

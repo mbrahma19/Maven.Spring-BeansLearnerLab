@@ -6,6 +6,7 @@ public class Student extends Person implements Learner{
 
     public Student(Long id, String name) {
         super(id, name);
+        totalStudyTime = 0.0;
     }
 
     public Double getTotalStudyTime() {
